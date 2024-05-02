@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" >Aula_Mobile_03_exe1</string>
+    <string name="etGasolina" >DIGITE O VALOR DO LITRO DA GASOLINA</string>
+    <string name="etEtanol" >  DIGITE O VALOR DO LITRO DO ETANOL</string>
+
+    <string name="finalCalc" >finalCalc</string>
+    <string name="calcular" >calcular</string>
+</resources>
